@@ -1,0 +1,8 @@
+{
+  "name": "vsd23-aula-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robighetti/vsd23-aula-02.git",
+  "author": "Rodrigo Bighetti <robighetti@gmail.com>",
+  "license": "MIT"
+}
